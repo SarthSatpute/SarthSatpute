@@ -16,17 +16,7 @@ When I’m not debugging, I’m riding, binging, or pretending I totally have th
 
 ---
 
-<div align="center">
-<!-- <img align="center" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" alt="coding"> -->
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SarthSatpute&label=Profile%20visits&color=0e75b6&style=flat" alt="SarthSatpute" /> </p>
 
-<h2 align="center">Survivor Count 🧑‍💻</h2>
-
-![Visitor Count](https://count.getloli.com/get/@SarthSatpute?theme=booru-lewd)
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SarthSatpute&theme=transparent&hide_border=true)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarthSatpute&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+### 💭 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
