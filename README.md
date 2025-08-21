@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sarth Satpute</h1>
-<h3 align="center">An ambitious tech enthusiast excelling in coding, blockchain, and real-time systems, always pushing the boundaries of innovation</h3>
+[![MasterHead](https://i.imgur.com/1ZvVkDc.gif)]()
 
-- 🌱 I’m currently learning **I’m currently learning advanced algorithms & blockchain development**
+Hey, I’m Sarth. This is my little digital dumping ground where side-projects, hackathon chaos, and “accidental” good ideas coexist.
 
-- 📫 How to reach me **Through LinkedIn**
+Fueled mostly by coffee and curiosity (with a sprinkle of panic before deadlines), I’ve somehow ended up building everything from agent frameworks and AI dashboards to Android remote-control hacks and ship load optimization algorithms. Python and Generative AI are my comfort zone, while frontends… let’s just say we’re frenemies at best.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/skanda_018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skanda_018" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarth satpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarth satpute" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarthsatpute18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthsatpute18" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sarthsatpute18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarthsatpute18" height="30" width="40" /></a>
-</p>
+My code tries to stay clean (the desk, not so much), and my GitHub is basically a gallery of experiments—some brilliant, some questionable, all very me. Outside the code, I’m usually running hackathons, helping my clubs survive deadlines, or convincing myself that my book stack will read itself.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+When I’m not debugging, I’m riding, binging, or pretending I totally have this “productivity” thing under control.
+
+⚠️ Warning: May contain traces of ambition disguised as competence.
+
+📩 sarthsatpute18@gmail.com
+
+🌐 sarthsatpute.site
+
+<div align="center">
+<!-- <img align="center" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" alt="coding"> -->
+</div>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkk-1&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkk-1" /> </p> -->
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishkk-1" alt="kanishkk-1" /></a> </p> -->
+
+<h2>Survivor Count</h2>
+
+![Visitor Count](https://count.getloli.com/get/@Kanishkk-1?theme=booru-lewd)
+
+<div display = "flex">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kanishkk-1&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkk-1&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+ <!-- ![a](https://spotify-recently-played-readme.vercel.app/api?user=phgozba4jodlx0mkwrhk8x73k&count=4) 
