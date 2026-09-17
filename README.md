@@ -1,18 +1,16 @@
 [![MasterHead](https://i.imgur.com/1ZvVkDc.gif)]()
 
-# Hey, I’m Sarth 👋  
-This is my little digital dumping ground where side-projects, hackathon chaos, and “accidental” good ideas coexist.  
+# Hey, I’m Sarth 👋
 
-Fueled mostly by coffee and curiosity (with a sprinkle of panic before deadlines), I’ve somehow ended up building everything from agent frameworks and AI dashboards to Android remote-control hacks and ship load optimization algorithms. Python and Generative AI are my comfort zone, while frontends… let’s just say we’re frenemies at best.  
+This is my little digital dumping ground for side-projects, hackathon chaos, experiments, and the occasional idea that somehow made it into production. Most of my recent work lives in company repos, so the GitHub graph might look a little quieter than the actual workload. The squares don’t tell the whole story.
 
-My code tries to stay clean (the desk, not so much), and my GitHub is basically a gallery of experiments—some brilliant, some questionable, all very *me*. Outside the code, I’m usually running hackathons, helping my clubs survive deadlines, or convincing myself that my book stack will read itself.  
+I work across the stack — **Python, C++, Java, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI, SQL, MongoDB, Docker, Nginx, Linux, CI/CD, and DevOps**, with a particular soft spot for **Generative AI, agentic systems, and backend architecture**. I’ve also shipped **iOS and Android apps**, worked with **React Native**, and occasionally wander into **Solidity, IPFS, and blockchain** when the project calls for it.
 
-When I’m not debugging, I’m riding, binging, or pretending I totally have this “productivity” thing under control.  
+⚠️ **Warning:** May contain traces of ambition disguised as competence.
 
-⚠️ **Warning:** May contain traces of ambition disguised as competence.  
+📩 **[sarthsatpute18@gmail.com](mailto:sarthsatpute18@gmail.com)**
 
-📩 **sarthsatpute18@gmail.com**  
-🌐 **[sarthsatpute.site](https://sarthsatpute.site)**  
+
 
 ---
 
